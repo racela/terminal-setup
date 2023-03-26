@@ -6,8 +6,11 @@ How I setup my terminal using neovim and tmux
 `$ sudo add-apt-repository ppa:neovim-ppa/unstable` <br>
 `$ sudo apt-get install neovim`
 
-## install tmux
+## Install tmux
 `$ sudo apt-get install tmux`
+
+## Install font
+https://www.nerdfonts.com/font-downloads
 
 ## Clone files and move to HOME directory
 `$ cd /tmp && git clone https://github.com/racela/terminal-setup` <br>
