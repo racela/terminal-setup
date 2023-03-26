@@ -9,6 +9,9 @@ How I setup my terminal using neovim and tmux
 ## Install tmux
 `$ sudo apt-get install tmux`
 
+## Clone tmux-plugins
+`$ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
+
 ## Install font
 https://www.nerdfonts.com/font-downloads
 
